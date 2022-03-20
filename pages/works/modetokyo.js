@@ -1,0 +1,56 @@
+import { Container,  Link, List, ListItem } from '@chakra-ui/react'
+import { Title, WorkImage, Meta } from '../../components/work'
+import P from '../../components/paragraph'
+import Layout from '../../components/layouts/article'
+
+
+const Work = () => (
+  <Layout title="Resume Website">
+    <Container>
+      <Title>
+    Resume 
+      </Title>
+      <P>
+      เรซูเม่เป็นเครื่องมือในนำเสนอตัวเองดังนั้นจึงควรใส่ใจและสร้างความประทับใจในครั้งแรก เพื่อเพิ่มโอกาสในการเรียกสัมภาษณ์งานมากขึ้น
+      </P>
+      <List ml={4} my={4}>
+      <ListItem>
+          <Meta>feature</Meta>  <br></br>     
+          <span>1. เลือกว่าจะให้ทำเป็นรูปแบบภาษาไทย / อังกฤษ หรือทั้งสอง</span><br></br>
+          <span>2. เสนอความต้องการ สไตล์ หรือรูปแบบ ธีม ฟอนท์ที่ต้องการ </span><br></br>
+          <span>3. รองรับการแสดงผลในทุกหน้าจอ (Responsive Website)</span><br></br>
+          <span>4. ปรับแก้ชิ้นงานได้ (SourceCode)</span><br></br>
+          <span>5. ปรึกษาฟรี </span>
+        </ListItem>
+        <ListItem>
+          <Meta>working period</Meta>
+          <span>1-3 วัน</span>
+        </ListItem>
+        <ListItem>
+          <Meta>language</Meta>
+          <span> เลือกภาษาที่ต้องการได้ </span>
+        </ListItem>
+        <ListItem>
+          <Meta>Contact to buy</Meta>
+          <Link href="#">
+          Discord
+          </Link>
+        </ListItem>
+        <ListItem>
+          <Meta>Vive-Resume</Meta>
+          <Link href="https://resume-nine-smoky.vercel.app/">
+          Resume
+          </Link>
+        </ListItem>
+      </List>
+
+      <WorkImage src="/images/works/Resume1.png" alt="Inkdrop" />
+      <WorkImage src="/images/works/Resume2.png" alt="Inkdrop" />
+      <WorkImage src="/images/works/Resume3.png" alt="Inkdrop" />
+    </Container>
+  </Layout>
+)
+
+
+export default Work
+export { getServerSideProps } from '../../components/chakra'
