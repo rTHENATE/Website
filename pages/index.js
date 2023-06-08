@@ -40,7 +40,7 @@ const Home = () => (
           <Heading as="h3" variant="page-title" align="center">
           NateCoding
           </Heading>
-          <p>Developer (Front end / Back end / Designer)</p>
+          <p>(Front end / Back end / Designer)</p>
         </Box>
         <Box
           flexShrink={0}
