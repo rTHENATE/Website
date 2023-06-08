@@ -15,8 +15,8 @@ const Main = ({ children, router }) => {
     <Box as="main" pb={8}>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="rTHENET homepage" />
-        <meta name="author" content="rTHENET" />
+        <meta name="description" content="homepage" />
+        <meta name="author" content="NateSite" />
         <meta name="author" content="craftzdog" />
         <link rel="apple-touch-icon" href="apple-touch-icon.png" />
         <link rel="shortcut icon" href="/Nate.png" type="image/x-icon" />
@@ -24,10 +24,10 @@ const Main = ({ children, router }) => {
         <meta name="twitter:site" content="@craftzdog" />
         <meta name="twitter:creator" content="@craftzdog" />
         <meta name="twitter:image" content="/card.png" />
-        <meta property="og:site_name" content="rTHENET Homepage" />
+        <meta property="og:site_name" content="Homepage" />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="/card.png" />
-        <title>rTHENATE</title>
+        <title>NateCoding</title>
       </Head>
 
       <NavBar path={router.asPath} />
