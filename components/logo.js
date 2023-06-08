@@ -36,7 +36,7 @@ const Logo = () => {
             fontWeight="bold"
             ml={3}
           >
-           rTHENATE
+           NateCoding 
           </Text>
         </LogoBox>
       </a>
