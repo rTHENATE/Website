@@ -49,7 +49,7 @@ const Home = () => (
           textAlign="center"
         >
           <Image
-            borderColor="skyblue"
+            borderColor="#f67b35"
             borderWidth={3}
             borderStyle="solid"
             maxWidth="100px"
