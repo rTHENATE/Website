@@ -38,7 +38,7 @@ const Home = () => (
       <Box display={{ md: 'flex' }}>
         <Box flexGrow={1}>
           <Heading as="h3" variant="page-title" align="center">
-          rTHENATE
+          NateCoding
           </Heading>
           <p>Developer (Front end / Back end / Designer)</p>
         </Box>
