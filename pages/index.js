@@ -99,11 +99,11 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>2019</BioYear>
-          Learn about Web Graphic Design. Web Programming Skills
+          Learn about Web Graphic Design, Web Programming Skills
         </BioSection>
         <BioSection>
           <BioYear >2020</BioYear>
-          Learn about Database. Web server&Application server. Security. ChatGPT. 
+          Learn about Database, Web server & Application server, Security, ChatGPT
         </BioSection>
         <BioSection >
           <BioYear>2021 To Present</BioYear>
@@ -123,7 +123,7 @@ const Home = () => (
             target="_blank"
             color="lightgreen"
           >
-            Music,
+           listen to music,
           </Link>
           ⠀Coding, {' '}
           <Link
@@ -131,9 +131,9 @@ const Home = () => (
             target="_blank"
             color="red"
           >
-            Favorite Pic,
+            Take a photo,
           </Link>
-          ⠀Learning
+          ⠀Learn
         </Paragraph>
       </Section>
 
