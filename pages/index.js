@@ -72,7 +72,7 @@ const Home = () => (
           the way to solving real-life problems with code and Developed more
           than 60 Webapp systems.{' '}
           <NextLink href="https://github.com/rTHENET">
-            <Link>rTHENATE</Link>
+            <Link>NateGithub</Link>
           </NextLink>
         </Paragraph>
         <Box align="center" my={5}>
