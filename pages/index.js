@@ -119,7 +119,7 @@ const Home = () => (
         <Paragraph>
           Football, {' '}
           <Link
-            href="https://www.youtube.com/watch?v=kGzC2-ofves&list=RDGMEMHDXYb1_DDSgDsobPsOFxpAVMkGzC2-ofves&start_radio=1"
+          href="https://youtu.be/sVTy_wmn5SU "
             target="_blank"
             color="lightgreen"
           >
