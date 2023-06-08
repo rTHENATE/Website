@@ -68,11 +68,11 @@ const Home = () => (
         </Heading>
         <Paragraph>
           Natecoding is freelance and full-stack developer with passion for
-          building digital services/stuff wants. from planning and designing all
+          building digital services/stuff wants from planning and designing all
           the way to solving real-life problems with code and Developed more
           than 60 Webapp systems.{' '}
           <NextLink href="https://github.com/rTHENET">
-            <Link>NateGithub</Link>
+            <Link>github</Link>
           </NextLink>
         </Paragraph>
         <Box align="center" my={5}>
