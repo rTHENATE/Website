@@ -67,7 +67,7 @@ const Home = () => (
           Work
         </Heading>
         <Paragraph>
-          rTHENATE is freelance and full-stack developer with passion for
+          Natecoding is freelance and full-stack developer with passion for
           building digital services/stuff wants. from planning and designing all
           the way to solving real-life problems with code and Developed more
           than 60 Webapp systems.{' '}
@@ -103,7 +103,7 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear >2020</BioYear>
-          Learn about Database. API. Security. JWT. OAuth. Token
+          Learn about Database. Web server&Application server. Security. ChatGPT. 
         </BioSection>
         <BioSection >
           <BioYear>2021 To Present</BioYear>
@@ -127,7 +127,7 @@ const Home = () => (
           </Link>
           ⠀Coding, {' '}
           <Link
-            href="https://news.mthai.com/app/uploads/2019/02/15-02-19-21.jpg"
+            href=""
             target="_blank"
             color="red"
           >
@@ -143,7 +143,7 @@ const Home = () => (
           Coding skill
         </Heading>
         <Paragraph>
-          React, Node js, jQuery, Java/Javascript, CSS, PHP, Python, Go, C
+          Kotlin, Dart, Java/Javascript, CSS HTML, PHP, Python, Go, C C#
         </Paragraph>
       </Section>
 
@@ -153,7 +153,7 @@ const Home = () => (
         Database Skill
         </Heading>
         <Paragraph>
-        Sql, MongoDB, MariaDB
+        MySql, MongoDB, MariaDB
         </Paragraph>
       </Section>
 
@@ -170,7 +170,7 @@ const Home = () => (
                 color="silver"
                 leftIcon={<Icon as={IoLogoGithub} />}
               >
-                @rTHENATE
+                @Natecoding 
               </Button>
             </Link>
           </ListItem>
@@ -181,7 +181,7 @@ const Home = () => (
                 color="skyblue"
                 leftIcon={<Icon as={IoLogoFacebook} />}
               >
-                @rTHENATE
+                @Natecoding 
               </Button>
             </Link>
           </ListItem>
@@ -192,7 +192,7 @@ const Home = () => (
                 color="orange"
                 leftIcon={<Icon as={IoLogoInstagram} />}
               >
-                @rt._nate
+                @_nxte.a
               </Button>
             </Link>
           </ListItem>
@@ -220,7 +220,7 @@ const Home = () => (
               target="_blank"
               color="green"
             >
-              rTHENATE
+              Natecool
             </Link>
           </BioSection>
           <BioSection>
