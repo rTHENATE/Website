@@ -32,7 +32,7 @@ const Home = () => (
         textAlign="center"
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.10')}
       >
-        Hello! I&apos;m Devel●per
+        Hello! I&apos;m NateCoding 
       </Box>
 
       <Box display={{ md: 'flex' }}>
@@ -40,7 +40,7 @@ const Home = () => (
           <Heading as="h3" variant="page-title" align="center">
           NateCoding
           </Heading>
-          <p>(Front end / Back end / Designer)</p>
+          <p>Developer (Front end / Back end / Designer)</p>
         </Box>
         <Box
           flexShrink={0}
@@ -67,7 +67,7 @@ const Home = () => (
           Work
         </Heading>
         <Paragraph>
-          Natecoding is freelance and full-stack developer with passion for
+          freelance and full-stack developer with passion for
           building digital services/stuff wants from planning and designing all
           the way to solving real-life problems with code and Developed more
           than 60 Webapp systems.{' '}
@@ -103,10 +103,10 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear >2020</BioYear>
-          Learn about Database, Web server & Application server, Security, ChatGPT
+          Learn about Database, Web server & Application server, Security
         </BioSection>
         <BioSection >
-          <BioYear>2021 To Present</BioYear>
+          <BioYear>2022 To Present</BioYear>
           Works as a freelance
         </BioSection>
       </Section>
