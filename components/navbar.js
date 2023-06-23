@@ -98,7 +98,7 @@ const Navbar = props => {
             <Menu isLazy id="navbar-menu">
               <MenuButton
                 as={IconButton}
-                icon={<AiFillLayout />}
+                icon={<HamBurgerIcon />}
                 variant="outline"
                 aria-label="Options"
               />
