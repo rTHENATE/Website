@@ -22,7 +22,7 @@ const Work = () => (
           <span>• esx last version</span><br></br>
           <span>• การเก็บข้อมูลที่มีประสิทธิภาพ maria DB / mongo DB</span><br></br>
           <span>• user inventory</span><br></br>
-          <span>• support & update free</span><br>
+          <span>• support & update free</span>
         </ListItem>
         <ListItem>
           <Meta>System</Meta>      
