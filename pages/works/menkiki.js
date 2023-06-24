@@ -5,36 +5,40 @@ import Layout from '../../components/layouts/article'
 
 
 const Work = () => (
-  <Layout title=" Bot Discord">
-    <Container>
-      <Title>
-      Bot Discord
-      </Title>
-      <P>
-      Bot Discord
-      </P>
-      <List ml={4} my={4}>
-        <ListItem>
-          <Meta>feature</Meta>  <br></br>     
-          <span>1. บันทึก ข้อความแชท </span><br></br>
-          <span>2. บันทึก เข้าสู่เซิร์ฟเวอร์ Discord</span><br></br>
-          <span>3. จัดการดูแล Discord</span><br></br>
-          <span>4. ตรวจสอบบทบาทในกลุ่ม Discord</span><br></br>
-          <span>5. บันทึกกิจกรรมอื่นๆ</span>
-        </ListItem>
-        <ListItem> 
-          <Meta>Version</Meta>
-          <span>1.0</span>
-        </ListItem>
-        <ListItem>
-          <Meta>language</Meta>
-          <span>Javascript, NodeJs ++</span>
-        </ListItem>
-      </List>
-
-      <WorkImage src="/images/works/salebot.png" alt="Inkdrop" />
-    </Container>
-  </Layout>
+    <Layout title=" Bot Discord"> 
+     <Container> 
+       <Title> 
+       Bot Discord 
+       </Title> 
+       <P> 
+       บอทที่รับทำเบื้องต้น หรือต้องการแบบไหนลองมาคุยกันก่อนได้ :) 
+       </P> 
+       <List ml={4} my={4}> 
+         <ListItem> 
+           <Meta>Discord Bot</Meta>  <br></br>      
+           <span>- บอทกลั่นกรอง Discord เนื้อหาที่ไม่เหมาะสม 
+ </span><br></br> 
+  
+           <span>- บอทสร้างโพล ความบันเทิง ดนตรี 
+ และ เกมส์ 
+ </span><br></br> 
+  
+           <span>- บอทจัดการดูแล Discord</span><br></br> 
+  
+         </ListItem> 
+         <ListItem>  
+           <Meta>Version</Meta> 
+           <span>-</span> 
+         </ListItem> 
+         <ListItem> 
+           <Meta>language</Meta> 
+           <span>Python, NodeJs </span> 
+         </ListItem> 
+       </List> 
+  
+       <WorkImage src="/images/works/salebot.png" alt="Inkdrop" /> 
+     </Container> 
+   </Layout>
 )
 
 export default Work
