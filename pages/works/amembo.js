@@ -10,25 +10,28 @@ const Work = () => (
       Bot Discord
       </Title>
       <P>
-      Bot Discord
+      บอทที่รับทำเบื้องต้น หรือต้องการแบบไหนลองมาคุยกันก่อนได้ :)
       </P>
       <List ml={4} my={4}>
         <ListItem>
-          <Meta>feature</Meta>  <br></br>     
-          <span>1. บันทึก ข้อความแชท </span><br></br>
-          <span>2. บันทึก เข้าสู่เซิร์ฟเวอร์ Discord</span><br></br>
-          <span>3. จัดการดูแล Discord</span><br></br>
-          <span>4. ตรวจสอบบทบาทในกลุ่ม Discord</span><br></br>
-          <span>5. บันทึกกิจกรรมอื่นๆ</span><br></br>
-          <span>6. อัพเดทฟรีตลอดชีพ</span>
+          <Meta>Discord Bot</Meta>  <br></br>     
+          <span>- บอทกลั่นกรอง Discord เนื้อหาที่ไม่เหมาะสม
+</span><br></br>
+
+          <span>- บอทสร้างโพล ความบันเทิง ดนตรี
+และ เกมส์
+</span><br></br>
+
+          <span>- บอทจัดการดูแล Discord</span><br></br>
+ 
         </ListItem>
         <ListItem> 
           <Meta>Version</Meta>
-          <span>1.0</span>
+          <span>-</span>
         </ListItem>
         <ListItem>
           <Meta>language</Meta>
-          <span>Javascript, NodeJs ++</span>
+          <span>Python, NodeJs </span>
         </ListItem>
       </List>
       
