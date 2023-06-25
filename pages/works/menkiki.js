@@ -11,19 +11,19 @@ const Work = () => (
        Bot Discord 
        </Title> 
        <P> 
-       บอทที่รับทำเบื้องต้น หรือต้องการแบบไหนลองมาคุยกันก่อนได้ :) 
+       บอทที่รับทำเบื้องต้น หรือต้องการแบบไหนลองมาคุยกันก่อนได้ ราคาถูก ใช้งานง่าย 
        </P> 
        <List ml={4} my={4}> 
          <ListItem> 
-           <Meta>Discord Bot</Meta>  <br></br>      
-           <span>- บอทกลั่นกรอง Discord เนื้อหาที่ไม่เหมาะสม 
+           <Meta>Details</Meta>  <br></br>      
+           <span>• บอทกลั่นกรอง Discord เนื้อหาที่ไม่เหมาะสม 
  </span><br></br> 
   
-           <span>- บอทสร้างโพล ความบันเทิง ดนตรี 
+           <span>• บอทโพล ความบันเทิง ดนตรี 
  และ เกมส์ 
  </span><br></br> 
   
-           <span>- บอทจัดการดูแล Discord</span><br></br> 
+           <span>• บอทจัดการดูแล Discord</span><br></br> 
   
          </ListItem> 
          <ListItem>  
