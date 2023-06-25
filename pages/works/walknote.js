@@ -11,12 +11,12 @@ const Work = () => (
       FiveM Script
       </Title>
       <P>
-      รับเขียน ScriptFiveM, แก้บัค, Error ต่างๆ
+      รับเขียน Script, แก้บัค, Error ต่างๆ
       </P>
       <List ml={4} my={4}>
         <ListItem>
           <Meta>System</Meta>      
-          es_extended 1.1, 1.2, Legacy ฯลฯ 
+          es_extended , Legacy ฯลฯ 
         </ListItem>
         <ListItem>
           <Meta>Version</Meta>
