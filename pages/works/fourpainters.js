@@ -14,7 +14,7 @@ const Work = () => (
       </P>
       <List ml={4} my={4}>
       <ListItem>
-          <Meta>feature</Meta>  <br></br>     
+          <Meta>Details</Meta>  <br></br>     
           <span>• ระบบหลังบ้าน Backend  System</span><br></br>
           <span>• ระบบจัดการฐานข้อมูล Database  </span><br></br>
           <span>• ระบบจัดการ service API  </span><br></br>
