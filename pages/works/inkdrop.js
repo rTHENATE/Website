@@ -11,7 +11,7 @@ const Work = () => (
       FiveM Custom UI
       </Title>
       <P>
-      รับทำ Ui FiveM สวยๆคลีนๆ ทุกรูปแบบ 
+      รับทำและออกแบบ Ui FiveM ทุกรูปแบบ  
       </P>
       <List ml={4} my={4}>
         <ListItem>
@@ -20,11 +20,11 @@ const Work = () => (
         </ListItem>
         <ListItem>
           <Meta>Version</Meta>
-          <span>(อัพเดทและซัพพอร์ตตลอดการใช้งาน)</span>
+          <span>-</span>
         </ListItem>
         <ListItem>
           <Meta>language</Meta>
-          <span> Lua, Javascript, Html, Css, Vue </span>
+          <span> Lua, Javascript, Html, Css, Vue  </span>
         </ListItem>
         <ListItem>
           <Meta>Contact to buy</Meta>
