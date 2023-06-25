@@ -5,7 +5,7 @@ import Layout from '../../components/layouts/article'
 
 
 const Work = () => (
-  <Layout title="Resume Website">
+  <Layout title="Resume">
     <Container>
       <Title>
     Resume 
@@ -15,16 +15,16 @@ const Work = () => (
       </P>
       <List ml={4} my={4}>
       <ListItem>
-          <Meta>feature</Meta>  <br></br>     
-          <span>1. เลือกว่าจะให้ทำเป็นรูปแบบภาษาไทย / อังกฤษ หรือทั้งสอง</span><br></br>
-          <span>2. เสนอความต้องการ สไตล์ หรือรูปแบบ ธีม ฟอนท์ที่ต้องการ </span><br></br>
-          <span>3. รองรับการแสดงผลในทุกหน้าจอ (Responsive Website)</span><br></br>
-          <span>4. ปรับแก้ชิ้นงานได้ (SourceCode)</span><br></br>
-          <span>5. ปรึกษาฟรี </span>
+          <Meta>Details</Meta>  <br></br>     
+          <span>• เลือกว่าจะให้ทำเป็นรูปแบบภาษาไทย / อังกฤษ หรือทั้งสอง</span><br></br>
+          <span>• เสนอความต้องการ สไตล์ หรือรูปแบบ ธีม ฟอนท์ที่ต้องการ </span><br></br>
+          <span>• รองรับการแสดงผลในทุกหน้าจอ (Responsive Website)</span><br></br>
+          <span>• สามารถปรับแก้ชิ้นงานได้เอง (SourceCode)</span><br></br>
+          <span>• ปรึกษาปัญหาและแก้ไข ฟรี </span>
         </ListItem>
         <ListItem>
-          <Meta>working period</Meta>
-          <span>1-3 วัน</span>
+          <Meta>Working period</Meta>
+          <span> 1-7 วัน</span>
         </ListItem>
         <ListItem>
           <Meta>language</Meta>
