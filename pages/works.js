@@ -17,7 +17,7 @@ const Works = () => (
   <Layout title="Works">
     <Container>
       <Heading as="h3" fontSize={20} mb={4}>
-        MY-JOB
+        MY-WORK
 
       </Heading>
 
