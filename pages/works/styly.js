@@ -15,7 +15,7 @@ const Work = () => (
       </P>
       <List ml={4} my={4}>
       <ListItem>
-          <Meta>feature</Meta>  <br></br>     
+          <Meta>Details</Meta>  <br></br>     
           <span>• Responsive Design รองรับทุกอุปกรณ์การแสดงผล มือถือ แท็บเล็ต และคอมพิวเตอร์ </span><br></br>
           <span>• ออกแบบเว็บไซต์ตาม Design ของลูกค้า </span><br></br>
           <span>• ระบบรักษาความปลอดภัยของเว็บไซต์ SSL จาก Let’s Encrypt</span><br></br>
