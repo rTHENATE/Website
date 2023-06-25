@@ -5,30 +5,27 @@ import Layout from '../../components/layouts/article'
 
 
 const Work = () => (
-  <Layout title="Website">
+  <Layout title="Wordpress">
     <Container>
       <Title>
-      Website 
+       Wordpress
       </Title>
       <P>
-      รับทำเว็บไซต์ ครบวงจร ไม่ว่าจะเป็น เว็บไซต์บริษัท เว็บองค์กร เว็บขายสินค้า เว็บโชว์ผลงาน
+      บริการครบวงจรสำหรับผู้ที่ทำเว็บไซต์ด้วย Wordpress หรือ ท่านที่ต้องาการมีเว็บไซต์ขายสินค้า เว็บไซต์บริษัทฯ องค์กร ที่ต้องมีการอัปเดทข้อมูลอยู่บ่อยๆ 
       </P>
       <List ml={4} my={4}>
       <ListItem>
-          <Meta>feature</Meta>  <br></br>     
-          <span>1. เว็บรองรับการแสดงผลในทุกหน้าจอ (Responsive Website) </span><br></br>
-          <span>2. เชื่อมต่อ Social Media ทุกช่องทาง Facebook, Line ,Messenger</span><br></br>
-          <span>3. https หรือกุญแจสีเขียว เว็บไซต์ปลอดภัย น่าเชื่อถือ</span><br></br>
-          <span>4. คอยดูแลซัพพอร์ตเว็บไซต์และอัพเดตให้ตลอด  </span><br></br>
-          <span>5. ฟรี Domain Name  + Hosting 1 ปี  </span>
-        </ListItem>
-        <ListItem>
-          <Meta>working period</Meta>
-          <span>3-15 วัน</span>
+          <Meta>Details</Meta>  <br></br>     
+          <span>• บริการConfig Cloud Service ของ  Google Cloud, Azure, Digital Ocean, Vultr โดยลูกค้าชำระค่าใช้จ่ายของ Cloud เอง ทางเราจะเข้าไปจัดการระบบ ติดตั้ง Web Control Panel จนถึงขั้น Install Wordpress หรือย้าย Website Wordpress ของท่าน </span><br></br>
+          <span>• บริการ Cloud Hosting สำหรับ Wordpress โดยแยก Database Server ต่างหากคนละ IP และ SSL 
+มีระบบ Firewall และ Backup รันด้วยระบบคอนโทรลพาเนล CWP   </span><br></br>
+          <span>• บริการแก้ปัญหา Wordpress หน้าขาว, ย้ายเว็บไซต์ Wordpress ไปโฮสอื่นๆ หรือใช้บริการโฮสของเรา, ตรวจสอบสแปมและจัดการให้เว็บไซต์ทำงานได้ดี </span><br></br>
+          <span>• Wordpress All in one Service | Wordpress Cloud Hosting | Migrate | SSL | SEO | CDN | Security </span>
+
         </ListItem>
         <ListItem>
           <Meta>language</Meta>
-          <span> เลือกภาษาที่ต้องการได้ </span>
+          <span> - </span>
         </ListItem>
         <ListItem>
           <Meta>Contact to buy</Meta>
@@ -39,9 +36,6 @@ const Work = () => (
       </List>
 
       <WorkImage src="/images/works/web-2.png" alt="Inkdrop" />
-      <WorkImage src="/images/works/web-3.png" alt="Inkdrop" />
-      <WorkImage src="/images/works/web-4.png" alt="Inkdrop" />
-      <WorkImage src="/images/works/web-5.png" alt="Inkdrop" />
     </Container>
   </Layout>
 )
