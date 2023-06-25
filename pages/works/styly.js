@@ -16,17 +16,18 @@ const Work = () => (
       <List ml={4} my={4}>
       <ListItem>
           <Meta>feature</Meta>  <br></br>     
-          <span>1. เว็บรองรับการแสดงผลในทุกหน้าจอ (Responsive Website) </span><br></br>
-          <span>2. เสนอความต้องการ สไตล์ หรือรูปแบบ ธีม ฟอนท์ที่ต้องการ(ธีม และ plugin ถูกลิขสิทธิ์ทุกตัว) </span><br></br>
-          <span>3. เชื่อมต่อ Social Media ทุกช่องทาง Facebook, Line ,Messenger</span><br></br>
-          <span>4. https หรือกุญแจสีเขียว เว็บไซต์ปลอดภัย น่าเชื่อถือ</span><br></br>
-          <span>5. ระบบเต็มรูปแบบ หน้าบ้าน หลังบ้าน (frontend Blackened)  </span><br></br>
-          <span>6. คอยดูแลซัพพอร์ตเว็บไซต์และอัพเดตให้ตลอด  </span><br></br>
-          <span>7. ฟรี Domain Name  + Hosting 1 ปี  </span>
+          <span>• Responsive Design รองรับทุกอุปกรณ์การแสดงผล มือถือ แท็บเล็ต และคอมพิวเตอร์ </span><br></br>
+          <span>• ออกแบบเว็บไซต์ตาม Design ของลูกค้า </span><br></br>
+          <span>• ระบบรักษาความปลอดภัยของเว็บไซต์ SSL จาก Let’s Encrypt</span><br></br>
+          <span>• SEO ติดอันดับการค้นหา Google</span><br></br>
+          <span>• บริการให้คำปรึกษา แนะนำแก้ไขระบบ ตลอดอายุการใช้งาน  </span><br></br>
+ <span>• เว็บโหลดเร็ว ไม่ต้องมาคอยแก้ปัญหาเว็บช้า </span><br></br>
+ <span>• ติดตั้ง PDPA ตาม พรบ. คอมพิวเตอร์ </span><br></br>
+          <span>• ฟรี Domain Name 1 ปี + Hosting 1 ปี  </span>
         </ListItem>
         <ListItem>
           <Meta>working period</Meta>
-          <span>3-15 วัน</span>
+          <span>ตามสเกลงาน</span>
         </ListItem>
         <ListItem>
           <Meta>language</Meta>
